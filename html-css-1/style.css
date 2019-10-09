@@ -1,0 +1,17 @@
+#toolbar {
+    border: 0;
+    display: flex;
+    justify-content: space-between;
+    background-color: grey;
+    display: block;
+}
+}
+body {
+ background-color: lightgrey;
+}
+.block {
+    color: rgb(240, 240, 49);
+    background-color: black;
+   
+
+}
